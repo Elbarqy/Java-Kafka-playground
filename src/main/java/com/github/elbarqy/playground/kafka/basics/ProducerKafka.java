@@ -1,4 +1,4 @@
-package com.github.elbarqy.playground.kafka;
+package com.github.elbarqy.playground.kafka.basics;
 
 import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.serialization.StringSerializer;
